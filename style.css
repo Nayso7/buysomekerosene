@@ -1,0 +1,18 @@
+img {
+    display: block;
+    width: 20%;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+}
+h4{
+    position: absolute;
+    right: 0;
+     bottom: 0;
+}
+input{
+    display: block;
+    margin : auto;
+}
