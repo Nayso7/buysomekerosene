@@ -12,6 +12,9 @@ h4{
     right: 0;
      bottom: 0;
 }
+h5 {
+    text-align: center;
+}
 input{
     display: block;
     margin : auto;
